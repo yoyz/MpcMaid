@@ -1,0 +1,2 @@
+go to the src directory
+launch build

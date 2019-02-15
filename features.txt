@@ -1,0 +1,31 @@
+MPC Maid 
+
+MPC Maid ("MM") is a software editor for the Akai MPC 1000, MPC 2500, and MPC 500.
+
+It works on Mac, PC, and other platforms (Java) and makes the edition of MPC programs files easy.
+
+Switch between the MPC500 12-pads layout or the MPC1000 16-pads layout (and also the number of filters and sliders thanks to the built-in  machine profiles).
+
+Simply drag and drop your samples files onto the pads, and it automatically assigns them, one on each pad or one on each sample layer.
+
+Export the full program and every related sample file together to the target location of your choice.
+
+Also features a semi-automatic slicing tool: drop your loop file to have it chopped into slices based on a beat detection mechanism.
+
+Direct export of the chopped slices as multiple .WAV files, one corresponding .PGM program file and one MIDI groove .MID file.
+
+Multiple window, one window for one program, simply drag and drop a .PGM program file will open a new window for this program.
+
+Includes automatic multisample program creation from files with their note in their name: MPC Maid calculates how to tune the sample for fill in the gaps between the available samples.
+
+Latest automation feature enables to create a program that list every .wav sample in each directory and sub-directory, recursively from a given base directory. This allows for instant conversion of any .wav sound library into an MPC-readable library.
+
+
+Known issues:
+In the chop slices tab, the focus is not guaranted to be on the waveform zone, when it is not you need to click in this zone to make sure the keyboard shortcuts work.
+On Vista the sound playback can be unreactive when multiple pads are pressed very quickly.
+On Mac OS X 10.4, in the chop slices tab, sound playback can in some rare case block the application, forcing to restart.
+
+
+
+
